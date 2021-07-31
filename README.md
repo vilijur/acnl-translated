@@ -1,5 +1,5 @@
-# Animal Crossing: New Leaf translated
-This is a (Work In Progress) poor translation of Animal Crossing: New Leaf for the Nintendo 3DS. As of now, it's planned to just replace the text, however changing the graphics may be considers.
+# Animal Crossing: New Leaf but poorly translated
+This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf for the Nintendo 3DS.](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) As of now, it's planned to just replace the text, however changing the graphics may be considers.
 
 # Some questions, and answers!
 
