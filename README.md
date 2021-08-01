@@ -4,7 +4,7 @@ This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](htt
 # Some questions, and some answers!
 
 ### What the hell is this?
-Well, it's just me taking Animal Crossing: New Leaf and throwing it into Google Translate. That's it
+Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google Translate.](htttps://translate.google.co.uk) That's it
 
 ### How do I install it?
 You don't. Not yet, at least. But, once it's made avalible, then I'll provide instructions on how to mess up Animal Crossing and have it make no sense at all. Just make sure you have a [hacked 3DS](https://3ds.hacks.guide) with [Luma3DS](https://github.com/LumaTeam/Luma3DS) insatlled. **:>**
