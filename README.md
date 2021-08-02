@@ -21,8 +21,11 @@ Any and all suggestions are welcome! Just make a [new Issue](https://github.com/
 ### Why is it taking so long for something to get done?
 I'm the only one working on this (as of now), as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of couse, with one person working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. Not to mention, it also depends on my mood for that day (or if I've burnt myself out or not). 
 
+### My question isn't answered here!
+If you have any questions that are not answered here, either drop me a Discord DM (vilijur#4481), Twitter DM ([@vilijur](https://twitter.com/vilijur)), or make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `question` tag (You should also add `@vilijur` in your Issue so I can get to it a little bit quicker). Keep in mind that it may take a while for me to repsond, depening on how you choose to contact me.
+
 # Documentation
-I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation doesn't exist.
+I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation doesn't exist at all in any way shape or form.
 
 # That's it
 You can get on with your day now. **:>**
