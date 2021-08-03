@@ -24,8 +24,12 @@ It's nowhere near complete, and some text is in other files that have not yet be
 ### Some text is duplicated, why is that?
 Not sure, but open an [Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `bug` tag, and I'll look into it as soon as I can.
 
+### Some of the text goes off screen or gets cut off.
+Seems like I need to retranslate that part, make it shorter or reformat it. You can inform me of this by opening an [Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `invalid` tag, give details on what part of the game this issue happens at, and I'll look into it as soon as I can.
+
 ### I have a suggestion, where should I put it?
 Any and all suggestions are welcome! Just make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `enhancement` tag. Don't be vauge, though.
+
 
 ### Why is it taking so long for something to get done?
 I'm the only one working on this (as of now), as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of couse, with one person working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. Not to mention, it also depends on my mood for that day (or if I've burnt myself out or not). 
