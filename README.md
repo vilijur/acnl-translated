@@ -12,8 +12,11 @@ You don't. Not yet, at least. But, once it's made avalible, then I'll provide in
 ### How will you go about making this publically avalible?
 At first, I'll do pre-releases, each of them containing one file that has been translated (I.E. The frst pre-relese will have `SYS_2D_UI.umsbt`, while the next may have another one). After all the text files have been poorly translated, the first offical release will be.. well, released. After that, I'll turn my attention to changing the graphics, which will take more time. After all graphics are complete, I'll consider making a `.cia` release, with a different TitleID to Animal Crossing: New Leaf - Welcome amiibo (EUR) (You'll be able to use it on any region, though). The `.cia` release may not be public for a while, however this is still up in the air.
 
-### Why is there nothing?
-It's nowhere near done. At all. I haven't even done the UI yet. But, once I've done the UI, there will be more than a README.md, that's for sure.
+### Why is some of the text is not translated?
+It's nowhere near complete, and some text is in other files that have not yet been translated. Though, if something's apart of one of the avalible translated files and isn't translated, open an [Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `bug` tag, provide where the text isn't translated (I.E in a menu) and I'll get to it as soon as posible.
+
+### Some text is duplicated, why is that?
+Not sure, but open an [Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `bug` tag, and I'll look into it as soon as I can.
 
 ### I have a suggestion, where should I put it?
 Any and all suggestions are welcome! Just make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `enhancement` tag. Don't be vauge, though.
