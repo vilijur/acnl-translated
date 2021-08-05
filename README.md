@@ -10,7 +10,17 @@ This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR),
 Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google Translate](https://translate.google.co.uk/). That's it
 
 ### How do I install it?
-Well... I don't have this part written up yet, so give me some time while I write the instructions.
+**Since this is a modification of the European/PAL files, these instructions will assume you're using the European/PAL version of Animal Crossing: New Leaf - Welcome amiibo.**
+**If `Enable game patching` is already enabled, skip step 1**
+
+1. Make sure you have a [hacked 3DS](https://3ds.hacks.guide) with [Luma3DS](https://github.com/LumaTeam/Luma3DS) installed. If your 3DS is on, turn it off, then press `SELECT`, then press the power button. You should be in the [Luma3DS configuration screen.](https://github.com/LumaTeam/Luma3DS/wiki/Optional-features) Press down on the `D-Pad` once, then press `A`. This will turn on `Enable game patching`, assuming it hasn't been enabled yet (You'll know if it's enabled if `(x)` is shown before `Enable game patching`.). Press `START` to save, then turn off the 3DS.
+
+2. Download the `.zip` file from the latest [pre-release](https://github.com/vilijur/acnl-translated/releases), and extract it to the root of your SD Card. If it asks to merge, select yes. Allow it to replace any files, if asked. Then, insert your SD Card back into your 3DS.
+
+3. Start up `Animal Crossing: New Leaf - Welcome amiibo`. If the menu says `According to Ⓐ`, you're done! Enjoy the unfinished translated mess!
+
+### How do I know if I have the Welcome amiibo release or not?
+Have a look at the game's icon. If the background is **green**, you have the orginal game. If the background is **white**, you have the Welcome amiibo release. If you have the orginal game, make sure to change the Title ID in the `titles` folder found in the `zip` file to that of your game (You can find the Title ID by using [FBI](https://github.com/Steveice10/FBI). Open FBI, go into Titles and look for `Animal Crossing: New Leaf`. You'll see the Title ID on the top screen.) This also applies if you're not using a Europian/PAL copy of AC:NL.
 
 ### How will you go about making this publically avalible?
 At first, I'll do pre-releases, each of them containing one file that has been translated (I.E. The frst pre-relese will have `SYS_2D_UI.umsbt`, while the next may have another one). After all the text files have been poorly translated, the first offical release will be.. well, released. After that, I'll turn my attention to changing the graphics, which will take more time. After all graphics are complete, I'll consider making a `.cia` release, with a different TitleID to Animal Crossing: New Leaf - Welcome amiibo (EUR) (You'll be able to use it on any region, though). The `.cia` release may not be public for a while, however this is still up in the air. **This plan is subject to change**
