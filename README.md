@@ -18,6 +18,9 @@ At first, I'll do pre-releases, each of them containing one file that has been t
 ### You mention a `.cia` release. Will you change the game icon and banner?
 Yes! I plan to make the banner's icon (the one you see on the top screen) the same as the poorly translated title screen graphic in game. As for the game icon on the bottom screen, I'm still deciding on what to do.
 
+### How long do you think it will take to finish this?
+I say about a year or two minimum. Animal Crossing: New Leaf is a very text heavy game, and the `Talk` folder is scaring me with how many files there are.
+
 ### Why is some of the text is not translated?
 It's nowhere near complete, and some text is in other files that have not yet been translated. Though, if something's apart of one of the avalible translated files and isn't translated, open an [Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `bug` tag, provide where the text isn't translated (I.E in a menu) and I'll get to it as soon as posible.
 
