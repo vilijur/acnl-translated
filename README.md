@@ -13,7 +13,7 @@ Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google
 **Since this is a modification of the European/PAL files, these instructions will assume you're using the European/PAL version of Animal Crossing: New Leaf - Welcome amiibo.**
 **If `Enable game patching` is already enabled, skip step 1**
 
-1. Make sure you have a [hacked 3DS](https://3ds.hacks.guide) with [Luma3DS](https://github.com/LumaTeam/Luma3DS) installed. If your 3DS is on, turn it off, then press `SELECT`, then press the power button. You should be in the [Luma3DS configuration screen.](https://github.com/LumaTeam/Luma3DS/wiki/Optional-features) Press down on the `D-Pad` once, then press `A`. This will turn on `Enable game patching`, assuming it hasn't been enabled yet (You'll know if it's enabled if `(x)` is shown before `Enable game patching`.). Press `START` to save, then turn off the 3DS.
+1. Make sure you have a [hacked 3DS](https://3ds.hacks.guide) with [Luma3DS](https://github.com/LumaTeam/Luma3DS) installed. If your 3DS is on, turn it off, then press and hold `SELECT`, then press the power button. You should be in the [Luma3DS configuration screen.](https://github.com/LumaTeam/Luma3DS/wiki/Optional-features) Press down on the `D-Pad` once, then press `A`. This will turn on `Enable game patching`, assuming it hasn't been enabled yet (You'll know if it's enabled if `(x)` is shown before `Enable game patching`.). Press `START` to save, then turn off the 3DS.
 
 2. Download the `.zip` file from the latest [pre-release](https://github.com/vilijur/acnl-translated/releases), and extract it to the root of your SD Card. If it asks to merge, select yes. Allow it to replace any files, if asked. Then, insert your SD Card back into your 3DS.
 
