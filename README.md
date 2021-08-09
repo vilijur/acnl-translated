@@ -47,7 +47,7 @@ Any and all suggestions are welcome! Just make a [new Issue](https://github.com/
 Yeah.
 
 ### Why is it taking so long for something to get done?
-I'm the only one working on this (as of now), as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of couse, with one person working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. Not to mention, it also depends on my mood for that day (or if I've burnt myself out or not). 
+I'm the only one working on this (as of now, very likely to change), as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of coruse, with one person working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. Not to mention, it also depends on my mood for that day (or if I've burnt myself out or not). 
 
 ### How do I keep up to date on the project?
 [On my Twitter!](https://twitter.com/vilijur) (Sorry Twitter followers who have no intrest in Animal Crossing: New Leaf being thrown in the Google Translate oven)
