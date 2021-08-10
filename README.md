@@ -58,6 +58,9 @@ If you have any questions that are not answered here, either drop me a Discord D
 ### What's the fastest way to contact you?
 I'd say Discord would be fastest, followed by Twitter.
 
+### What folder are you working on as of now?
+Right now, I plan to tackle the `MailN` folder.
+
 # Documentation
 I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation doesn't exist at all in any way shape or form.
 
