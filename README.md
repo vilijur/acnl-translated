@@ -1,5 +1,5 @@
 # Animal Crossing: New Leaf but poorly translated (working title)
-This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) for the [Nintendo 3DS.](https://en.wikipedia.org/wiki/Nintendo_3DS) As of now, it's planned to just replace the text, however changing the graphics may be considered.
+This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
 
 # ⚠**WARNING**⚠
 This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR), and as such, the Title ID in the `luma` folder is for that game. If you do not have Animal Crossing: New Leaf - Welcome amiibo (EUR), you can change the Title ID to the version of your game, however this may cause more unexpected issues. **PROCEED AT YOUR OWN RISK**
