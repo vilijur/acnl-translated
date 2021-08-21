@@ -62,7 +62,7 @@ I'd say Discord would be fastest, followed by Twitter.
 Right now, I plan to tackle the `MailN` folder.
 
 # Documentation
-I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation doesn't exist at all in any way shape or form.
+I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation does exist but barely. You can check it out [here.](https://github.com/vilijur/acnl-translated/wiki)
 
 # That's it
 You can get on with your day now. **:>**
