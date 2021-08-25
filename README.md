@@ -29,7 +29,9 @@ Yeah.
 At first, I'll do pre-releases, each of them containing one file that has been translated (I.E. The frst pre-relese will have `SYS_2D_UI.umsbt`, while the next may have another one). After all the text files have been poorly translated, the first offical release will be.. well, released. After that, I'll turn my attention to changing the graphics, which will take more time. After all graphics are complete, I'll consider making a `.cia` release, with a different TitleID to Animal Crossing: New Leaf - Welcome amiibo (EUR) (You'll be able to use it on any region, though). The `.cia` release may not be public for a while, however this is still up in the air. **This plan is subject to change**
 
 ### You mention a `.cia` release. Will you change the game icon and banner?
-Yes! I plan to make the banner's icon (the one you see on the top screen) the same as the poorly translated title screen graphic in game. As for the game icon on the bottom screen, I'll replace it with a recolour of New Leaf's Welcome amiibo release.
+Yes! I plan to make the banner's icon (the one you see on the top screen) the same as the poorly translated title screen graphic in game. As for the game icon on the bottom screen, I'll replace it with this:
+
+![The icon I plan to use.](https://github.com/vilijur/acnl-translated/blob/main/acnlwatr3.png)
 
 ### How long do you think it will take to finish this?
 I say about a year or two minimum. Animal Crossing: New Leaf is a very text heavy game, and the `Talk` folder is scaring me with how many files there are.
