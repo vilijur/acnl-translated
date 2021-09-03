@@ -52,13 +52,13 @@ Any and all suggestions are welcome! Just make a [new Issue](https://github.com/
 I'm the only one working on this (as of now, very likely to change), as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of coruse, with one person working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. Not to mention, it also depends on my mood for that day (or if I've burnt myself out or not). 
 
 ### How do I keep up to date on the project?
-[On my (update) Twitter (account that I use for this and this alone. As soon as Twitter gives me access to my account back)!](https://twitter.com/translatijur)
+[On this here Twitter account, ran, owned and entirely made by me! No phone number required!](https://twitter.com/translatijur)
 
 ### My question isn't answered here!
-If you have any questions that are not answered here, either drop me a Discord DM (vilijur#4481), Twitter DM ([@vilijur](https://twitter.com/vilijur)), or make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `question` tag (You should also add `@vilijur` in your Issue so I can get to it a little bit quicker). Keep in mind that it may take a while for me to repsond, depening on how you choose to contact me.
+If you have any questions that are not answered here, either drop me a Discord DM (vilijur#4481), Twitter DM ([@vilijur](https://twitter.com/vilijur) or [@translatijur](https://twitter.com/tranalatijur)), or make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `question` tag (You should also add `@vilijur` in your Issue so I can get to it a little bit quicker). Keep in mind that it may take a while for me to repsond, depening on how you choose to contact me.
 
 ### What's the fastest way to contact you?
-I'd say Discord would be fastest, followed by Twitter.
+I'd say Discord would be fastest, since I use that app too much (oh god someone help me)
 
 ### What folder are you working on as of now?
 Right now, I plan to tackle the `MailN` folder.
