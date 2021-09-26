@@ -7,7 +7,7 @@ This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR),
 # Some questions, and some answers!
 
 ### What the hell is this?
-Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google Translate](https://translate.google.co.uk/). That's it
+Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google Translate](https://translate.google.co.uk/). That's it.
 
 ### How do I install it?
 **Since this is a modification of the European/PAL files, these instructions will assume you're using the European/PAL version of Animal Crossing: New Leaf - Welcome amiibo.**
