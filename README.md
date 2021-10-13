@@ -55,7 +55,7 @@ I'm the only one working on this (as of now, very likely to change), as a hobby.
 [On this here Twitter account, ran, owned and entirely made by me! No phone number required!](https://twitter.com/translatijur)
 
 ### My question isn't answered here!
-If you have any questions that are not answered here, either drop me a Discord DM (vilijur#4481), Twitter DM ([@vilijur](https://twitter.com/vilijur)), or make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `question` tag (You should also add `@vilijur` in your Issue so I can get to it a little bit quicker). Keep in mind that it may take a while for me to repsond, depening on how you choose to contact me. Also don't ask for my email, I am not a business.
+If you have any questions that are not answered here, either drop me a Discord DM (vilijur#4481), Twitter DM ([@vilijur](https://twitter.com/vilijur), I do not recommend contacting me this way), or make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `question` tag (You should also add `@vilijur` in your Issue so I can get to it a little bit quicker). Keep in mind that it may take a while for me to repsond, depening on how you choose to contact me. Also don't ask for my email, I am not a business.
 
 ### What's the fastest way to contact you?
 I'd say Discord would be fastest, since I use that app too much (oh god someone help me)
