@@ -36,7 +36,7 @@ Yes! I plan to make the banner's icon (the one you see on the top screen) the sa
 ### How long do you think it will take to finish this?
 I say about a year or two minimum. Animal Crossing: New Leaf is a very text heavy game, and the `Talk` folder is scaring me with how many files there are.
 
-### Why is some of the text is not translated?
+### Why is some of the text not translated?
 It's nowhere near complete, and some text is in other files that have not yet been translated. Though, if something's apart of one of the avalible translated files and isn't translated, open an [Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `bug` tag, provide where the text isn't translated (I.E in a menu) and I'll get to it as soon as posible.
 
 ### Some text is duplicated, why is that?
@@ -69,9 +69,9 @@ I do plan to document the prosess so that others can do not just text hacks, but
 # Credits
 This is where I credit people for their work on this project, because I don't want to take all the credit. Well, assuming I end up doing all of this on my own. So far, the credits area as follows:
 
-basically everything - vilijur
+basically everything - [vilijur](https://github.com/vilijur)
 
-additional help - no one, yet.
+additional help - [Oogie-Chan](https://github.com/Oogie-Chan)
 
 # That's it
 You can get on with your day now. **:>**
