@@ -66,5 +66,11 @@ Right now, I'm working on [the MailN folder](https://github.com/vilijur/acnl-tra
 # Documentation
 I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation does exist but barely. You can check it out [here.](https://github.com/vilijur/acnl-translated/wiki)
 
+# Credits
+This is where I credit people for their work on this project, because I don't want to take all the credit. Well, assuming I end up doing all of this on my own. So far, the credits area as follows:
+
+basically everything - @vilijur
+additional help - no one, yet.
+
 # That's it
 You can get on with your day now. **:>**
