@@ -49,7 +49,7 @@ Seems like I need to retranslate that part, make it shorter or reformat it. You 
 Any and all suggestions are welcome! Just make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `enhancement` tag. Don't be vauge, though.
 
 ### Why is it taking so long for something to get done?
-I'm the only one working on this (as of now, very likely to change), as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of coruse, with one person working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. Not to mention, it also depends on my mood for that day (or if I've burnt myself out or not). 
+Only I and a friend of mine are working on this, as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of coruse, with two people who don't know what they are doing sometimes working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. 
 
 ### How do I keep up to date on the project?
 [On this here Twitter account, ran, owned and entirely made by me! No phone number required!](https://twitter.com/translatijur)
