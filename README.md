@@ -69,7 +69,8 @@ I do plan to document the prosess so that others can do not just text hacks, but
 # Credits
 This is where I credit people for their work on this project, because I don't want to take all the credit. Well, assuming I end up doing all of this on my own. So far, the credits area as follows:
 
-basically everything - @vilijur
+basically everything - vilijur
+
 additional help - no one, yet.
 
 # That's it
