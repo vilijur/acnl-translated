@@ -66,6 +66,9 @@ Right now, I'm working on [the MailN folder](https://github.com/vilijur/acnl-tra
 ### How many spelling mistakes do you make
 Wayyyy too many.
 
+### Hurry up.
+That's not a question.
+
 # Documentation
 I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation does exist but barely. You can check it out [here.](https://github.com/vilijur/acnl-translated/wiki)
 
