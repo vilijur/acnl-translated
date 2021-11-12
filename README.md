@@ -61,7 +61,7 @@ If you have any questions that are not answered here, either drop me a Discord D
 I'd say Discord would be fastest, since I use that app too much (oh god someone help me)
 
 ### What folder are you working on as of now?
-Right now, I'm working on [the MailN folder](https://github.com/vilijur/acnl-translated/wiki/The-Script-folder#mailn-and-mailr).
+Right now, I'm working on [the MailN folder](https://github.com/vilijur/acnl-translated/wiki/The-Script-folder#mailn-and-mailr), or trying to at least.
 
 ### How many spelling mistakes do you make
 Wayyyy too many.
