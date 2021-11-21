@@ -1,6 +1,23 @@
 # Animal Crossing: New Leaf but poorly translated (working title)
 This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
 
+# I need YOU!
+As of right now, there's a very high chance for this to take actually forever, so I need someone who knows how this video game handles text, specifically the `Talk` folder. So, **what** exactly do I need? Simple. As of right now, I'm using [MSBT Editor Reloaded](https://github.com/IcySon55/3DLandMSBTeditor/releases/) on a Windows 7 virtual machine. This seems to be able to get the job done for the most part. Well, until I tried to edit Kapp'n's song. Editing this seems to be a complete nightmare, and I can't wrap my head arround it. That's where you come in (I hope). I have a very simple request:
+
+### My request
+I need software that is able to edit New Leaf's `.msbt` files. More specifically, I would like it to be able to allow the user to edit the text, and have the software able to handle the hex part. It should also be able to change the colour of a word in a user friendly way. There is a chance that some files require different types of hex (or identifiers, I don't know what it is), or none at all, so there should be a way for the user to choose the mode based off of the file in question. I.E, there could be one mode called `Villager text` and another one called `Kapp'n Song`, and each will make the text work in those areas.
+A few other things I would like include:
+* The software should be able to work on Windows 7 and up, GNU/Linux (Debian) or both. Debian is my daily driver, however I can set up a VM in case making a Linux version ends up being too complicated. The choice is up to you
+* The software should be open source. Please. I like open source software.
+* It should be quite user friendly. I'm a dumb dumb and I have no idea what I'm doing.
+* It shouldn't take up too much RAM. This isn't Google Chrome.
+
+If you're interested, please get in contact, either via Twitter DMs ([@vilijur](https://twitter.com/vilijur)), GitHub, or Discord (vilijur#4481). If these ways to contact me don't work, open an issue and mention me in it.
+
+Okay, that's it, you can continue reading the readme.
+
+(P.S, if this software that I'm looking for exists, please let me know.)
+
 # ⚠**WARNING**⚠
 This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR), and as such, the Title ID in the `luma` folder is for that game. If you do not have Animal Crossing: New Leaf - Welcome amiibo (EUR), you can change the Title ID to the version of your game, however this may cause more unexpected issues. **PROCEED AT YOUR OWN RISK**
 
