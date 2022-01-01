@@ -7,7 +7,7 @@ As of right now, there's a very high chance for this to take actually forever, s
 ### My request
 I need software that is able to edit New Leaf's `.msbt` files. More specifically, I would like it to be able to allow the user to edit the text, and have the software able to handle the hex part. It should also be able to change the colour of a word in a user friendly way. There is a chance that some files require different types of hex (or identifiers, I don't know what it is), or none at all, so there should be a way for the user to choose the mode based off of the file in question. I.E, there could be one mode called `Villager text` and another one called `Kapp'n Song`, and each will make the text work in those areas.
 A few other things I would like include:
-* The software should be able to work on Windows 7 and up, GNU/Linux (Debian, Ubuntu or any variations of them, i.e Linux Mint) or both. Debian is my daily driver, however I can set up a VM in case making a Linux version ends up being too complicated. The choice is up to you
+* The software should be able to work on Windows 7 and up, GNU/Linux (Debian, Ubuntu or any variations of them, i.e Linux Mint) or both. Debian and Linux Mint are my daily drivers (depending on what PC I'm using), however I can set up a VM in case making a Linux version ends up being too complicated. The choice is up to you
 * The software should be open source. Please. I like open source software.
 * It should be quite user friendly. I'm a dumb dumb and I have no idea what I'm doing.
 * It shouldn't take up too much RAM. This isn't Google Chrome.
