@@ -64,7 +64,7 @@ If you have any questions that are not answered here, either drop me a Discord D
 I'd say Discord would be fastest, since I use that app too much (oh god someone help me)
 
 ### What folder are you working on as of now?
-Right now, I'm working on [the MailN folder](https://github.com/vilijur/acnl-translated/wiki/The-Script-folder#mailn-and-mailr), or trying to at least.
+I'll be working on [the MailN folder](https://github.com/vilijur/acnl-translated/wiki/The-Script-folder#mailn-and-mailr) when I get back to poorly translating New Leaf. As of right now, I want to begin [poorly translating Happy Home Designer](https://github.com/vilijur/achhd-translated).
 
 ### How many spelling mistakes do you make
 Wayyyy too many.
