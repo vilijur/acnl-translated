@@ -83,5 +83,8 @@ This is where I credit people for their work on this project, because I don't wa
 
 basically everything - [vilijur](https://github.com/vilijur)
 
+# One more thing...
+I'm also working on other poor translations (in my own time) with [Animal Crossing: Happy Home Designer](https://github.com/vilijur/achhd-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
+
 # That's it
 You can get on with your day now. **:>**
