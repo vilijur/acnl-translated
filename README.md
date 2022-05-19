@@ -86,5 +86,7 @@ basically everything - [vilijur](https://github.com/vilijur)
 # One more thing...
 I'm also working on other poor translations (in my own time) with [Animal Crossing: Happy Home Designer](https://github.com/vilijur/achhd-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
 
+oh and btw the animal crossing series is called `Expensive Transition` now. This game will be called `Expensive Transition: New Class - Welcome to the new Amiibos wine list` (which I might change, it's quite long) when it's in a better state then a small amount of the game's text has been changed, or when I can be bothered. Whichever comes first.
+
 # That's it
 You can get on with your day now. **:>**
