@@ -26,7 +26,7 @@ No, it isn't, however due to the size of New Leaf, and how much text there is, m
 Have a look at the game's icon. If the background is **green**, you have the orginal game. If the background is **white**, you have the Welcome amiibo release. If you have the orginal game, make sure to change the Title ID in the `titles` folder found in the `zip` file to that of your game (You can find the Title ID by using [FBI](https://github.com/Steveice10/FBI). Open FBI, go into Titles and look for `Animal Crossing: New Leaf`. You'll see the Title ID on the top screen.) This also applies if you're not using a Europian/PAL copy of AC:NL.
 
 ### Isn't the warning a bit too dramatic?
-Yeah. It is.
+Yeah, it is.
 
 ### How will you go about making this publically avalible?
 At first, I'll do pre-releases, each of them containing one file that has been translated (I.E. The frst pre-relese will have `SYS_2D_UI.umsbt`, while the next may have another one). After all the text files have been poorly translated, the first offical release will be.. well, released. After that, I'll turn my attention to changing the graphics, which will take more time. After all graphics are complete, I'll consider making a `.cia` release, with a different TitleID to Animal Crossing: New Leaf - Welcome amiibo (EUR) (You'll be able to use it on any region, though). The `.cia` release may not be public for a while, however this is still up in the air. **This plan is subject to change**
