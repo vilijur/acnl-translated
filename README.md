@@ -1,6 +1,10 @@
 # Animal Crossing: New Leaf but poorly translated (working title)
 This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
 
+# **Notice**
+Currently, progress on this mod has been suspended until thurther notice. This also applies to [Animal Crossing: Happy Home Designer](https://github.com/vilijur/achhd-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated) (Amiibo Festival has no progress anyways).
+
+
 # ⚠**WARNING**⚠
 This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR), and as such, the Title ID in the `luma` folder is for that game. If you do not have Animal Crossing: New Leaf - Welcome amiibo (EUR), you can change the Title ID to the version of your game, however this may cause more unexpected issues. **PROCEED AT YOUR OWN RISK**
 
@@ -10,7 +14,7 @@ This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR),
 Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google Translate](https://translate.google.co.uk/). That's it.
 
 ### Is this discontinued/canceled?
-No, it isn't, however due to the size of New Leaf, and how much text there is, my lonely self cannot really translate it all at a fast rate, and it also depends heavily on my mood for that day. The `Talk` file will most likely be tackled last.
+As of currently, work on this project is suspended until I figure out what the hell I am supposed to do.
 
 ### How do I install it?
 **Since this is a modification of the European/PAL files, these instructions will assume you're using the European/PAL version of Animal Crossing: New Leaf - Welcome amiibo.**
