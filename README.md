@@ -2,7 +2,7 @@
 This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
 
 # **Notice**
-Currently, progress on this mod has been suspended until thurther notice. This also applies to [Animal Crossing: Happy Home Designer](https://github.com/vilijur/achhd-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated) (Amiibo Festival has no progress anyways).
+Currently, progress on this mod has been suspended until further notice. This also applies to [Animal Crossing: Happy Home Designer](https://github.com/vilijur/achhd-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated) (Amiibo Festival has no progress anyways).
 
 
 # ⚠**WARNING**⚠
