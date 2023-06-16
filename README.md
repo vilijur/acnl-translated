@@ -5,8 +5,8 @@ This is a (Work In Progress) poor translation of [Animal Crossing: New Leaf](htt
 Currently, progress on this mod has been suspended until further notice. This also applies to [Animal Crossing: Happy Home Designer](https://github.com/vilijur/achhd-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated) (Amiibo Festival has no progress anyways).
 
 
-# ⚠**WARNING**⚠
-This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR), and as such, the Title ID in the `luma` folder is for that game. If you do not have Animal Crossing: New Leaf - Welcome amiibo (EUR), you can change the Title ID to the version of your game, however this may cause more unexpected issues. **PROCEED AT YOUR OWN RISK**
+# Please Note
+This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR), and as such, the Title ID in the `luma` folder is for that game. If you do not have Animal Crossing: New Leaf - Welcome amiibo (EUR), you can change the Title ID to the version of your game, however this may cause more unexpected issues. It shouldn't break your save data, however you may want to make a backup anyway.
 
 # Some questions, and some answers!
 
@@ -14,7 +14,7 @@ This mod was made based off of Animal Crossing: New Leaf - Welcome amiibo (EUR),
 Well, it's just me taking Animal Crossing: New Leaf and throwing it into [Google Translate](https://translate.google.co.uk/). That's it.
 
 ### Is this discontinued/canceled?
-As of currently, work on this project is suspended until I figure out what the hell I am supposed to do.
+As of now, work on this project is suspended until I figure out what the hell I am supposed to do. I might work on it a bit here and there, but I'm not actively working on the project.
 
 ### How do I install it?
 **Since this is a modification of the European/PAL files, these instructions will assume you're using the European/PAL version of Animal Crossing: New Leaf - Welcome amiibo.**
@@ -28,9 +28,6 @@ As of currently, work on this project is suspended until I figure out what the h
 
 ### How do I know if I have the Welcome amiibo release or not?
 Have a look at the game's icon. If the background is **green**, you have the orginal game. If the background is **white**, you have the Welcome amiibo release. If you have the orginal game, make sure to change the Title ID in the `titles` folder found in the `zip` file to that of your game (You can find the Title ID by using [FBI](https://github.com/Steveice10/FBI). Open FBI, go into Titles and look for `Animal Crossing: New Leaf`. You'll see the Title ID on the top screen.) This also applies if you're not using a Europian/PAL copy of AC:NL.
-
-### Isn't the warning a bit too dramatic?
-Yeah, it is.
 
 ### How will you go about making this publically avalible?
 At first, I'll do pre-releases, each of them containing one file that has been translated (I.E. The frst pre-relese will have `SYS_2D_UI.umsbt`, while the next may have another one). After all the text files have been poorly translated, the first offical release will be.. well, released. After that, I'll turn my attention to changing the graphics, which will take more time. After all graphics are complete, I'll consider making a `.cia` release, with a different TitleID to Animal Crossing: New Leaf - Welcome amiibo (EUR) (You'll be able to use it on any region, though). The `.cia` release may not be public for a while, however this is still up in the air. **This plan is subject to change**
@@ -59,16 +56,13 @@ Any and all suggestions are welcome! Just make a [new Issue](https://github.com/
 I'm (for the most part) the only one working on this, as a hobby. It's for fun, and nothing more. Plus, basiaclly everything is self taught. Of coruse, with one person who don't know what they are doing sometimes working on changing all the text in a text heavy game like Animal Crossing: New Leaf, it's gonna take a while for things to get done. 
 
 ### How do I keep up to date on the project?
-[On this here Twitter account, ran, owned and entirely made by me! No phone number required!](https://twitter.com/gitijur)
+On this here [Twitter account](https://twitter.com/gitijur).
 
 ### My question isn't answered here!
-If you have any questions that are not answered here, either drop me a Discord DM (vilijur#4481), Twitter DM ([@vilijur](https://twitter.com/vilijur), I do not recommend contacting me this way), or make a [new Issue](https://github.com/vilijur/acnl-translated/issues/new) with the `question` tag (You should also add `@vilijur` in your Issue so I can get to it a little bit quicker). Keep in mind that it may take a while for me to repsond, depening on how you choose to contact me. Also don't ask for my email, I am not a business.
-
-### What's the fastest way to contact you?
-I'd say Discord would be fastest, since I use that app too much (oh god someone help me)
+oh, oops
 
 ### What folder are you working on as of now?
-I'll be working on [the MailN folder](https://github.com/vilijur/acnl-translated/wiki/The-Script-folder#mailn-and-mailr) when I get back to poorly translating New Leaf. As of right now, I want to begin [poorly translating Happy Home Designer](https://github.com/vilijur/achhd-translated).
+Currently not doing anything in this regard. I've been experimenting with a CIA release, however I don't have the motication to work on this again, probably will stay like that for a while.
 
 ### How many spelling mistakes do you make
 Wayyyy too many.
@@ -80,7 +74,7 @@ That's not a question.
 Nope, not in the slightest!
 
 # Documentation
-I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation does exist but barely. You can check it out [here.](https://github.com/vilijur/acnl-translated/wiki)
+I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: New Leaf. As of right now, that documentation does exist but barely, and is probabbly incorrect in many ways, but you can check it out [here](https://github.com/vilijur/acnl-translated/wiki), if you want to.
 
 # Credits
 This is where I credit people for their work on this project, because I don't want to take all the credit. Well, assuming I don't end up doing all of this on my own. So far, the credits area as follows:
